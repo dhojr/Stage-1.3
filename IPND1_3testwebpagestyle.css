@@ -7,6 +7,10 @@ if you need a refresher about how to do this. */
 
 
         body {
+        background-image: url("https://robertatkinson61.files.wordpress.com/2014/01/er-fish-eye.jpg");
+        background-repeat:repeat-y;
+        background-position:center;
+        background-size: 340%, 340%; /* Set to make stadium photo size of view screen in Chrome */
         text-align: center;
         color: rgb(230,242,253);
         font-size: 22px;
